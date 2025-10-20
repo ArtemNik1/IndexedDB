@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f9fc;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+input, button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 80%;
+  background: white;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 10px;
+}
+
+th {
+  background-color: #e2e8f0;
+}
+
+.action {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.emptyHeader {
+  color: #888;
+  font-style: italic;
+}
